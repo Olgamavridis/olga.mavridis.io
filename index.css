@@ -1,0 +1,59 @@
+body {
+  background-color:#b3ffff
+}
+
+img {
+  opacity:1;
+}
+
+h2{
+  color: grey;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color: #7575a3;
+  position:relative;
+  left: 0px;
+}
+
+
+h3 {
+  color: Dark Purple;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color:  #8000ff;
+  position:relative;
+  left: 0px;
+}
+
+h4 {
+  color:Purple;
+  color:#a366ff;
+}
+
+/* position:absolute;
+left: 550px;
+top: 0px; */
+}
+ul{margin:0}
+li{line-height:1px}
+
+
+/* Column CSS */
+
+.column{
+  float:left;
+  width: 50%;
+}
+
+.row:after{
+  content: "";
+  display:table;
+  clear:both;
+}
+
+a:hover {
+    background-color:#ffff99;
+
+}
+
+a:active {
+    background-color:#ffccff;
+}
